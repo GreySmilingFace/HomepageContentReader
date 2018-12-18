@@ -1,4 +1,4 @@
-package homepageContentReader;
+package homepageContentReader.bhvTables.entity;
 
 public class Team {
 
